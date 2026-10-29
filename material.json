@@ -1,0 +1,225 @@
+{
+  "versao": 1,
+  "empreendimento": {
+    "slug": "grand-valley",
+    "nome": "Grand Valley Club Resort",
+    "endereco": "Av. José Neoli Cruz · Porto Belo, SC",
+    "capa": "og-capa.jpg",
+    "textoDaCapa": "Vista aérea noturna do Grand Valley Club Resort, com as torres e a fachada iluminada"
+  },
+  "aviso": "Este material é de uso exclusivo do corretor cadastrado e não deve ser compartilhado.",
+  "reserva": {
+    "titulo": "Fazer reserva",
+    "subtitulo": "Abre a Nova Reserva com o empreendimento e a torre já preenchidos",
+    "empreendimento": "GRAND VALLEY",
+    "torre": "FLORA"
+  },
+  "secoes": [
+    {
+      "titulo": "Arquivos",
+      "subtitulo": "Visualize ou envie o PDF direto no WhatsApp.",
+      "cards": [
+        {
+          "id": "ebook",
+          "titulo": "Ebook atualizado",
+          "subtitulo": "Apresentação completa do empreendimento · PDF",
+          "tipo": "arquivo",
+          "arquivo": "GrandValley_Ebook.pdf",
+          "permissao": "publico",
+          "acoes": [
+            "visualizar",
+            "baixar",
+            "whatsapp"
+          ],
+          "whatsapp": "Grand Valley Club Resort · Ebook do empreendimento\n{link}"
+        },
+        {
+          "id": "plantas",
+          "titulo": "Plantas atualizadas",
+          "subtitulo": "Plantas da Torre Flora · PDF",
+          "tipo": "arquivo",
+          "arquivo": "GrandValley_Plantas_Torre_Flora.pdf",
+          "permissao": "ver",
+          "acoes": [
+            "visualizar"
+          ]
+        },
+        {
+          "id": "tabela",
+          "titulo": "Grand Valley · PDF tabela atualizada",
+          "subtitulo": "Torre Flora · gerada na hora com os dados da planilha · PDF",
+          "tipo": "gerado",
+          "fonte": "MATERIAL_GV_TABELA_URL",
+          "permissao": "ver",
+          "acoes": [
+            "visualizar"
+          ]
+        },
+        {
+          "id": "fotos",
+          "titulo": "Fotos do empreendimento",
+          "subtitulo": "16 imagens em alta · escolha e baixe as que quiser",
+          "tipo": "galeria",
+          "permissao": "baixar",
+          "acoes": [
+            "visualizar",
+            "baixar"
+          ],
+          "itens": [
+            {
+              "arquivo": "foto-01-fachada-noturna.jpg",
+              "miniatura": "foto-01-fachada-noturna-mini.jpg",
+              "legenda": "Fachada noturna"
+            },
+            {
+              "arquivo": "foto-02-torres-por-do-sol.jpg",
+              "miniatura": "foto-02-torres-por-do-sol-mini.jpg",
+              "legenda": "Torres ao pôr do sol"
+            },
+            {
+              "arquivo": "foto-03-fachada-piscina.jpg",
+              "miniatura": "foto-03-fachada-piscina-mini.jpg",
+              "legenda": "Fachada e piscina"
+            },
+            {
+              "arquivo": "foto-04-vista-aerea.jpg",
+              "miniatura": "foto-04-vista-aerea-mini.jpg",
+              "legenda": "Vista aérea"
+            },
+            {
+              "arquivo": "foto-05-vista-aerea-detalhe.jpg",
+              "miniatura": "foto-05-vista-aerea-detalhe-mini.jpg",
+              "legenda": "Vista aérea em detalhe"
+            },
+            {
+              "arquivo": "foto-06-passeio-aquatico.jpg",
+              "miniatura": "foto-06-passeio-aquatico-mini.jpg",
+              "legenda": "Passeio aquático"
+            },
+            {
+              "arquivo": "foto-07-praca-de-fogo.jpg",
+              "miniatura": "foto-07-praca-de-fogo-mini.jpg",
+              "legenda": "Praça de fogo"
+            },
+            {
+              "arquivo": "foto-08-ofuros.jpg",
+              "miniatura": "foto-08-ofuros-mini.jpg",
+              "legenda": "Ofurôs"
+            },
+            {
+              "arquivo": "foto-09-quiosque.jpg",
+              "miniatura": "foto-09-quiosque-mini.jpg",
+              "legenda": "Quiosque"
+            },
+            {
+              "arquivo": "foto-10-espaco-kids.jpg",
+              "miniatura": "foto-10-espaco-kids-mini.jpg",
+              "legenda": "Espaço kids"
+            },
+            {
+              "arquivo": "foto-11-quadra-poliesportiva.jpg",
+              "miniatura": "foto-11-quadra-poliesportiva-mini.jpg",
+              "legenda": "Quadra poliesportiva"
+            },
+            {
+              "arquivo": "foto-12-espaco-crossfit.jpg",
+              "miniatura": "foto-12-espaco-crossfit-mini.jpg",
+              "legenda": "Espaço crossfit"
+            },
+            {
+              "arquivo": "foto-13-lavanderia.jpg",
+              "miniatura": "foto-13-lavanderia-mini.jpg",
+              "legenda": "Lavanderia"
+            },
+            {
+              "arquivo": "foto-14-coworking.jpg",
+              "miniatura": "foto-14-coworking-mini.jpg",
+              "legenda": "Coworking"
+            },
+            {
+              "arquivo": "foto-15-mercado.jpg",
+              "miniatura": "foto-15-mercado-mini.jpg",
+              "legenda": "Mercado"
+            },
+            {
+              "arquivo": "foto-16-varandas.jpg",
+              "miniatura": "foto-16-varandas-mini.jpg",
+              "legenda": "Varandas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Links para copiar",
+      "subtitulo": "Clique no cartão para abrir, copie o link ou envie direto no WhatsApp.",
+      "cards": [
+        {
+          "id": "espelho",
+          "titulo": "Disponibilidade atualizada e fluxo",
+          "subtitulo": "Espelho de disponibilidade on-line",
+          "tipo": "link",
+          "url": "https://grandvalley.allmarcrm.online/espelho",
+          "permissao": "publico",
+          "acoes": [
+            "visualizar",
+            "copiar",
+            "whatsapp"
+          ],
+          "whatsapp": "Grand Valley Club Resort · Disponibilidade atualizada e fluxo\n{link}"
+        },
+        {
+          "id": "localizacao",
+          "titulo": "Localização Grand Valley",
+          "subtitulo": "Localização e entorno do empreendimento",
+          "tipo": "link",
+          "url": "https://graceful-naiad-dc3591.netlify.app/",
+          "permissao": "publico",
+          "acoes": [
+            "visualizar",
+            "copiar",
+            "whatsapp"
+          ],
+          "whatsapp": "Grand Valley Club Resort · Localização Grand Valley\n{link}"
+        },
+        {
+          "id": "experiencia-3d",
+          "titulo": "Experiência 3D",
+          "subtitulo": "Conheça o empreendimento em 3D",
+          "tipo": "link",
+          "url": "https://grandvalley.allmarcrm.online",
+          "permissao": "publico",
+          "acoes": [
+            "visualizar",
+            "copiar",
+            "whatsapp"
+          ],
+          "whatsapp": "Grand Valley Club Resort · Experiência 3D\n{link}"
+        },
+        {
+          "id": "documentacao",
+          "titulo": "Documentação completa",
+          "subtitulo": "Todos os documentos reunidos em um só lugar",
+          "tipo": "link",
+          "url": null,
+          "estado": "em_breve",
+          "permissao": "ver",
+          "acoes": []
+        }
+      ]
+    }
+  ],
+  "rodape": {
+    "texto": "Uma realização Rofran",
+    "links": [
+      {
+        "titulo": "Instagram",
+        "url": "https://www.instagram.com/rofran.construtora/"
+      },
+      {
+        "titulo": "Site",
+        "url": "https://rofranconstrutora.com.br"
+      }
+    ]
+  }
+}
